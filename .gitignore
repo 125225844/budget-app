@@ -1,0 +1,16 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub-cache/
+build/
+ios/Pods/
+android/.gradle/
+android/app/release/
+*.iml
+*.lock
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
